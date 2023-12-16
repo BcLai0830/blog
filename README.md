@@ -1,3 +1,5 @@
-it can run in a server.
+# blog system using django
 
-just a blog system without comment system.
+-it can run in a server.
+-just a blog system without comment system.
+-it fuck up
